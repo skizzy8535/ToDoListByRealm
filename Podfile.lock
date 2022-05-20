@@ -1,0 +1,28 @@
+PODS:
+  - ChameleonFramework/Default (2.1.0)
+  - ChameleonFramework/Swift (2.1.0):
+    - ChameleonFramework/Default
+  - Realm (10.5.0):
+    - Realm/Headers (= 10.5.0)
+  - Realm/Headers (10.5.0)
+  - RealmSwift (10.5.0):
+    - Realm (= 10.5.0)
+
+DEPENDENCIES:
+  - ChameleonFramework/Swift
+  - RealmSwift
+
+SPEC REPOS:
+  trunk:
+    - ChameleonFramework
+    - Realm
+    - RealmSwift
+
+SPEC CHECKSUMS:
+  ChameleonFramework: d21a3cc247abfe5e37609a283a8238b03575cf64
+  Realm: e1c22c3d83b229afb70ebc10e1771c91e9542d12
+  RealmSwift: 6fc078d9d3fd7e58c71bfdbb694e252462f112a5
+
+PODFILE CHECKSUM: 6194cecd6617f7f590f41077901a5b25288984ca
+
+COCOAPODS: 1.11.2
