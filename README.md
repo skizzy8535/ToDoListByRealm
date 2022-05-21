@@ -1,6 +1,6 @@
 # To-Do List App
 
-*A simple To-do list app build for iPhone in Swift 5 *
+*A simple To-do list app build for iPhone in Swift 5*
 
 This is an app that can create drink order. All drink information comes from Airtable. It can be updated online all the time. 
 
