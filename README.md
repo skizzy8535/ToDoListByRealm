@@ -21,4 +21,4 @@ This is an app that adding/modifying/removing habits and noted with detailed inf
 
 Get more info in my Notion notes :
 
-[Notes]()
+[Notes](https://www.notion.so/To-Do-List-3a8c4e35dec346128a36492754bb4d16)
