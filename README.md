@@ -14,11 +14,3 @@ This is an app that adding/modifying/removing habits and noted with detailed inf
 * Uses Chameleon framework to create random flat colors
 * UITableViewController and cells management in Table Viev
 * Sort/Filter/ To-Do tasks
-
-
-
-### More Infomation
-
-Get more info in my Notion notes :
-
-[Notes](https://www.notion.so/To-Do-List-3a8c4e35dec346128a36492754bb4d16)
