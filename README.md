@@ -2,7 +2,7 @@
 
 *A simple To-do list app build for iPhone in Swift 5*
 
-This is an app that adding/modifying/removing habits and noted with detailed information about each of then
+This is an app that adding/modifying/removing habits and noted with detailed information about each of them
 
 
 
